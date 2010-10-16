@@ -13,6 +13,6 @@ new LiveStats({
   port: 8000,
   geoipServer: {
     hostname: 'geoip.peepcode.com'
-    , port: 90
+    , port: 80
   }
 });
